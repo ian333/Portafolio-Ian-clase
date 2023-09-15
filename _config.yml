@@ -1,0 +1,6 @@
+tittle : Minimal theme
+logo: /assets/img/log.png
+description: Minimal is a theme for Github PAges
+show_downloads: True
+google_analytics:
+theme : jekyll-theme-minimal
